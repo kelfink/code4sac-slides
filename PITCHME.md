@@ -1,7 +1,8 @@
-# Flux 
+## Code for Sacramento  
 
-An application architecture for React
+### Hack Night
 
+May 2
 ---
 
 ### Flux Design
